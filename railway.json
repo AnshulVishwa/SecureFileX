@@ -1,9 +1,0 @@
-{
-  "project": "SecureFileX",
-  "services": [
-    {
-      "name": "backend",
-      "path": "/backend"
-    }
-  ]
-}
